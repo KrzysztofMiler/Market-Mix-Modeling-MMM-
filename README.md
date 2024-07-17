@@ -26,6 +26,9 @@ Purpose: Robyn offers Bayesian regression capabilities, specifically tailored fo
 
 Why it's used: Robyn enables the estimation of regression models with Bayesian priors, providing accurate predictions and offering superior visualizations compared to PyMC.
 
+![4_171_7_reallocated_best_roas](https://github.com/user-attachments/assets/6df1a7d8-7f17-4fe7-9343-80865f74ac48)
+Pictured is the optimal budget allocation according to Robyn. Without increasing the resources spent, and based on last month's data, it is capable of raising the response rate by more than 50%, potentially reaching up to 60% with a more aggressive strategy.
+
 ## Benefits of This Solution
 - **Optimized Budget Allocation**: Determines the most effective distribution of marketing budgets across different channels.
 - **Quantitative Insights**: Provides quantitative measures of the impact of marketing activities on sales.
